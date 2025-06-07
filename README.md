@@ -1,4 +1,5 @@
 # Coffee-Sales-Dashboard
+Coffee Sales Dashboard Discription
 
 This Excel-based interactive dashboard provides key insights into a coffee shop's performance across various metrics. Built using PivotTables, slicers, and charts, it visualizes:
 
